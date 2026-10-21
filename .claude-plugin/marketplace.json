@@ -1,0 +1,20 @@
+{
+  "name": "rogue-digital",
+  "description": "Free Claude skills from Rogue Digital, a UK AI and engineering consultancy.",
+  "owner": {
+    "name": "Rogue Digital Ltd",
+    "url": "https://roguedigital.ai/?utm_source=github&utm_medium=referral&utm_campaign=rogue-growth-2026q4&utm_content=claude-skills"
+  },
+  "plugins": [
+    {
+      "name": "rogue-skills",
+      "source": "./",
+      "description": "Three free skills: an AI policy builder, a speed to lead audit and an AEO check.",
+      "version": "0.1.0",
+      "author": { "name": "Jamie Buchanan" },
+      "license": "MIT",
+      "category": "business",
+      "tags": ["ai-policy", "sales", "aeo", "uk"]
+    }
+  ]
+}
