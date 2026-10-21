@@ -1,0 +1,8 @@
+# Harbour Bakery
+
+> A family bakery in Exampletown selling sourdough, rye and seeded loaves.
+
+## Pages
+
+- [Menu](https://bakery.example/menu): what we bake
+- [About](https://bakery.example/about): who we are
