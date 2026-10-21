@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+
+User-agent: GPTBot
+Allow: /
+
+Sitemap: https://bakery.example/sitemap.xml
