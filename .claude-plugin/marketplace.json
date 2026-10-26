@@ -11,7 +11,7 @@
       "source": "./",
       "description": "Three free skills: an AI policy builder, a speed to lead audit and an AEO check.",
       "version": "0.1.0",
-      "author": { "name": "Jamie Buchanan" },
+      "author": { "name": "Rogue Digital Ltd" },
       "license": "MIT",
       "category": "business",
       "tags": ["ai-policy", "sales", "aeo", "uk"]

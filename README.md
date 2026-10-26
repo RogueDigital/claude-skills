@@ -31,7 +31,7 @@ The scripts use the Python standard library only (Python 3.11 or later). Nothing
 
 ## About Rogue Digital
 
-Rogue Digital Ltd is a UK AI and engineering consultancy. We build AI agents and automation, web and e-commerce sites, and help businesses get found in AI search. These skills are small tools we think are useful on their own. Written by Jamie Buchanan. More at [roguedigital.ai](https://roguedigital.ai/?utm_source=github&utm_medium=referral&utm_campaign=rogue-growth-2026q4&utm_content=claude-skills).
+Rogue Digital Ltd is a UK AI and engineering consultancy. We build AI agents and automation, web and e-commerce sites, and help businesses get found in AI search. These skills are small tools we think are useful on their own. Written by Rogue Digital. More at [roguedigital.ai](https://roguedigital.ai/?utm_source=github&utm_medium=referral&utm_campaign=rogue-growth-2026q4&utm_content=claude-skills).
 
 ## Licence
 
